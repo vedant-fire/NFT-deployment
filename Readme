@@ -3,4 +3,4 @@ Non-Fungible Tokens (NFTs) are all the rage right now and as a developer, you mi
 We’ll use the standard OpenZeppelin ERC721 contracts that are the gold standard of smart contracts.
 
 There are various tools for deploying smart contracts, but for this article we’re going to use the web3 CLI tool as it’s the quickest and easiest tool to compile and deploy contract.
-You’ll need to use an account that has some gas for these transactions, or create a new one and send gas to it. This will be $GO on GoChain or ETH for Ehtreeum(ETH).
+You’ll need to use an account that has some gas for these transactions, or create a new one and send gas to it. This will be $GO on GoChain or ETH for Ehtreeum(ETH)
